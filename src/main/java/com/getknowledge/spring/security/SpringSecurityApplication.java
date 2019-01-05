@@ -1,4 +1,4 @@
-package com.getknowledge.spring.security.springsecurity;
+package com.getknowledge.spring.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
